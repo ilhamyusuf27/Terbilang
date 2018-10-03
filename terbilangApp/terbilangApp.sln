@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{24C103D6-F53B-451B-81E7-9BF8E2FB0518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HurufClassLibrary", "HurufClassLibrary\HurufClassLibrary.csproj", "{D6D034CD-C1CD-411E-AC2D-3E90912D05DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C103D6-F53B-451B-81E7-9BF8E2FB0518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C103D6-F53B-451B-81E7-9BF8E2FB0518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C103D6-F53B-451B-81E7-9BF8E2FB0518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C103D6-F53B-451B-81E7-9BF8E2FB0518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D034CD-C1CD-411E-AC2D-3E90912D05DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D034CD-C1CD-411E-AC2D-3E90912D05DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D034CD-C1CD-411E-AC2D-3E90912D05DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D034CD-C1CD-411E-AC2D-3E90912D05DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FA644BA-FF52-477A-8C8D-DF89F34E79C5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\File\Informatika\Semester 3\Praktikum\Pertemuan 2\terbilangApp\HurufClassLibrary\obj\Debug\HurufClassLibrary.csprojAssemblyReference.cache
+D:\File\Informatika\Semester 3\Praktikum\Pertemuan 2\terbilangApp\HurufClassLibrary\obj\Debug\HurufClassLibrary.csproj.CoreCompileInputs.cache
+D:\File\Informatika\Semester 3\Praktikum\Pertemuan 2\terbilangApp\HurufClassLibrary\bin\Debug\HurufClassLibrary.dll
+D:\File\Informatika\Semester 3\Praktikum\Pertemuan 2\terbilangApp\HurufClassLibrary\bin\Debug\HurufClassLibrary.pdb
+D:\File\Informatika\Semester 3\Praktikum\Pertemuan 2\terbilangApp\HurufClassLibrary\obj\Debug\HurufClassLibrary.dll
+D:\File\Informatika\Semester 3\Praktikum\Pertemuan 2\terbilangApp\HurufClassLibrary\obj\Debug\HurufClassLibrary.pdb
